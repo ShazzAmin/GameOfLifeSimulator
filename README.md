@@ -11,13 +11,13 @@ A GUI-based simulator for [Conway's Game of Life](https://en.wikipedia.org/wiki/
 * Step through individual generations
 
 ### Build
-###### Pre-requisites:
+###### Prerequisites:
 * Java Development Kit (>= 9.0.4)
 
 `./build.sh`
 
 ### Run
-###### Pre-requisites:
+###### Prerequisites:
 * Java Runtime Environment (>= 9.0.4)
 
 `java -jar bin/GameOfLife.jar`
